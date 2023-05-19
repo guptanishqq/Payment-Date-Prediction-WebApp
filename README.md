@@ -1,4 +1,4 @@
-# Payment Date Prediction Webapp - [DEMO](https://drive.google.com/file/d/1ma4deNGn0aF4oW27GTSH0jssG5VfT-LU/view?usp=sharing)
+# Payment Date Prediction Webapp
 
 
 ---
